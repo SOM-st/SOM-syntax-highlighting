@@ -5,7 +5,7 @@
 	<key>name</key>
 	<string>Indentation</string>
 	<key>scope</key>
-	<string>source.SOM-smalltalk</string>
+	<string>source.SOMns</string>
 	<key>settings</key>
 	<dict>
 		<key>decreaseIndentPattern</key>
@@ -14,6 +14,6 @@
 		<string>^-|\+\s.*$|^.*\[[^\]]*$</string>
 	</dict>
 	<key>uuid</key>
-	<string>8546d147-4a95-40cf-8f10-4db35201bfcd</string>
+	<string>80dcfe6d-ef82-4244-bdbc-7d77b86bd207</string>
 </dict>
 </plist>
